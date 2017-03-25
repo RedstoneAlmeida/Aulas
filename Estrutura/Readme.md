@@ -9,11 +9,14 @@ use pocketmine\plugin\PluginBase;
 
 class Loader extends PluginBase{
 
-     public function onLoad(){}
+     public function onLoad(){
+     }
      
-     public function onEnable(){}
+     public function onEnable(){
+     }
      
-     public function onDisable(){}
+     public function onDisable(){
+     }
 
 }
 ```
